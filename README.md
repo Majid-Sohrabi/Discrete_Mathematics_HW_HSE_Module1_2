@@ -2,4 +2,4 @@
 
 [Homework 1](Discrete_Math_HW1_CNF-DNF.ipynb) contains the following task:
 
-  1) Find DNF & CNF for a given arbitrary formula.
+  1) Find DNF & CNF for an arbitrary given formula.
